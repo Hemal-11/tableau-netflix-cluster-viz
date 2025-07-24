@@ -56,7 +56,7 @@ Have feedback or ideas for improvement? Open an issue or drop a message!
 ---
 
 ## 📎Tableau Public Workbook
-https://public.tableau.com/views/Book1_17533346799150/ShowExplorer?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/NetflixShowClustering/NetflixShowClustering?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
