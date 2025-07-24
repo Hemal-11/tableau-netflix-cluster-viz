@@ -30,7 +30,7 @@ A detailed table with filters that allows users to search titles, view their clu
 
 ## 🛠️ Tools & Technologies
 - Tableau Desktop Public Edition
-- (Optional) Python or Excel for preprocessing
+- Python for preprocessing
 - Git & GitHub for version control
 
 ## 📌 Key Insights
